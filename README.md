@@ -20,6 +20,11 @@ token by apple and every other data send to the callback endpoint.
 docker run --name sign-in-with-apple-callback -p 3080:3080 -e CLIENT_ID="com.example.app" -e ENDPOINT="/oauth/apple/callback" -d ghcr.io/byjoker8625/sign-in-with-apple-callback:latest
 ```
 
+## License
+
+All files on this repository are subject to the **MIT license**. Please read
+the [LICENSE](https://github.com/byjoker8625/sign-in-with-apple-callback/blob/main/LICENSE) file at the root of the project.
+
 
 
 
