@@ -1,0 +1,12 @@
+{
+  "name": "sign-in-with-apple-callback",
+  "version": "0.1.0",
+  "private": true,
+  "main": "secret-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
